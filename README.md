@@ -2,7 +2,7 @@
 
 The best challenge in the world.
 
-Winter 2022 Data Science Intern Challenge
+Winter 2022 Data Science Intern for Datasciences.
 
 Click the link below to see my solutions for the challenge:
 
