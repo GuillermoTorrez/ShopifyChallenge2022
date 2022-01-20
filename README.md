@@ -1,5 +1,7 @@
 # ShopifyChallenge2022
 
+
+
 The best challenge in the world.
 
 Winter 2022 Data Science Intern Challenge
